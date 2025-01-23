@@ -1,0 +1,312 @@
+# CSS Mastery Course
+
+CSS Mastery is a comprehensive course that covers everything you need to know about CSS. This course is designed for beginners who want to learn CSS from scratch and for intermediate developers who want to improve their CSS skills.
+
+By the end of this course, you will have a solid understanding of CSS and be able to create beautiful, responsive websites. You will learn how to use CSS to style text, create layouts, and add interactivity to your web pages. You will also learn advanced CSS techniques like flexbox, grid, animations, and more.
+
+This course is divided into four weeks, with each week focusing on a different aspect of CSS. Each day of the week will cover a specific topic, with labs, challenges, and projects to help you practice what you've learned. The course will culminate in a final capstone project where you will build a multi-page portfolio website using all the skills you've learned. And we will also added more weeks for advanced concepts and projects.
+
+---
+
+## **Week 1: Basics of CSS**
+
+In the first week, you will learn the basics of CSS, including what CSS is, how to apply CSS to HTML, and the different ways to add CSS to your web pages. You will also learn about CSS syntax, selectors, and how to style text and backgrounds.
+
+### **Day 1: Introduction to CSS**
+
+In this day, you will learn what CSS is and how it is used to style web pages. You will learn about inline, internal, and external CSS, CSS syntax, and selectors. You will also practice applying CSS to an HTML page.
+
+- **Topics:**
+  - What is CSS?
+  - Inline, internal, and external CSS
+  - CSS syntax and selectors
+- **Lab:** Style a paragraph using inline, internal, and external CSS.
+- **Challenge:** Apply CSS to an "About Me" HTML page.
+- **Project:** Create a styled "Welcome Page."
+
+### **Day 2: CSS Selectors**
+
+In this day, you will learn about different types of CSS selectors, including universal, element, class, and ID selectors. You will also learn how to combine and group selectors to target specific elements on a web page.
+
+- **Topics:**
+  - Basic selectors (universal, element, class, ID)
+  - Grouping and combining selectors
+- **Lab:** Use various selectors to style text.
+- **Challenge:** Style a page with a combination of class and ID selectors.
+- **Project:** Build a "Styled Profile Card."
+
+### **Day 3: Colors in CSS**
+
+In this day, you will learn about different color types in CSS, including named colors, HEX, RGB, and HSL. You will learn how to set background colors and text colors using CSS properties.
+
+- **Topics:**
+  - Color types (named, HEX, RGB, HSL)
+  - Background colors and text colors
+- **Lab:** Create a page with multiple background colors.
+- **Challenge:** Create a "Color Palette" using different color formats.
+- **Project:** Build a "Favorite Colors" webpage.
+
+### **Day 4: Text Styling**
+
+In this day, you will learn how to style text using CSS properties like font-family, size, weight, and line-height. You will also learn about text alignment, decoration, and spacing.
+
+- **Topics:**
+  - Font-family, size, weight, line-height
+  - Text alignment, decoration, spacing
+- **Lab:** Style a paragraph with custom fonts and alignment.
+- **Challenge:** Use Google Fonts in your project.
+- **Project:** Build a "Styled Blog Page."
+
+### **Day 5: Box Model**
+
+In this day, you will learn about the CSS box model, which includes content, padding, border, and margin. You will learn how to use the box-sizing property to control the sizing of elements.
+
+- **Topics:**
+  - Content, padding, border, margin
+  - Box-sizing property
+- **Lab:** Create a page with elements demonstrating the box model.
+- **Challenge:** Adjust spacing and borders for a card layout.
+- **Project:** Create a "Pricing Card" with proper box model spacing.
+
+### **Day 6: Backgrounds**
+
+In this day, you will learn how to add background images and gradients to your web pages using CSS properties. You will learn about background properties like image, position, repeat, and attachment.
+
+- **Topics:**
+  - Background properties (image, position, repeat, attachment)
+  - Gradients (linear, radial)
+- **Lab:** Add background images and gradients to a webpage.
+- **Challenge:** Create a gradient button set.
+- **Project:** Design a "Hero Section" with background gradients.
+
+### **Day 7: Mini Project**
+
+In this day, you will work on a mini project to apply what you've learned in the first week. You will build a landing page with a hero section, proper text styling, box model spacing, and background gradients.
+
+- **Project:** Build a **Landing Page** with:
+  - A hero section
+  - Proper text styling
+  - Box model spacing
+  - Background gradients
+
+---
+
+## **Week 2: Intermediate CSS**
+
+In the second week, you will learn intermediate CSS concepts like positioning, display, visibility, flexbox, and grid. You will learn how to use these concepts to create complex layouts and designs for your web pages.
+
+### **Day 8: CSS Positioning**
+
+In this day, you will learn about different types of CSS positioning, including static, relative, absolute, fixed, and sticky. You will learn how to use these positioning types to place elements on a web page.
+
+- **Topics:**
+  - Static, relative, absolute, fixed, sticky
+- **Lab:** Experiment with all positioning types.
+- **Challenge:** Create a sticky header for a webpage.
+- **Project:** Build a "Navigation Bar."
+
+### **Day 9: Display & Visibility**
+
+In this day, you will learn about different display values in CSS, including block, inline, inline-block, and none. You will also learn about the visibility and z-index properties.
+
+- **Topics:**
+  - Block, inline, inline-block, none
+  - Visibility and z-index
+- **Lab:** Change element displays and visibility.
+- **Challenge:** Use z-index to create overlapping elements.
+- **Project:** Create a "Layered Card Design."
+
+### **Day 10: Flexbox Basics**
+
+In this day, you will learn the basics of flexbox, including the flex container and flex items. You will learn about properties like justify-content, align-items, and flex-wrap to create flexible layouts for your web pages.
+
+- **Topics:**
+  - Flex container and items
+  - Justify-content, align-items, flex-wrap
+- **Lab:** Use flexbox to align elements horizontally and vertically.
+- **Challenge:** Build a flexbox-based navigation menu.
+- **Project:** Create a "Photo Gallery" using flexbox.
+
+### **Day 11: Advanced Flexbox**
+
+In this day, you will learn advanced flexbox concepts like flex-grow, shrink, and basis, as well as nested flexboxes. You will learn how to use these concepts to create flexible layouts for your web pages.
+
+- **Topics:**
+  - Flex-grow, shrink, and basis
+  - Nested flexboxes
+- **Lab:** Experiment with flex-grow and shrink properties.
+- **Challenge:** Create a flexible card layout.
+- **Project:** Build a "Responsive Card Grid."
+
+### **Day 12: CSS Grid Basics**
+
+In this day, you will learn the basics of CSS Grid, including grid container and items, template rows and columns, and gap. You will learn how to use CSS Grid to create grid-based layouts for your web pages.
+
+- **Topics:**
+  - Grid container and items
+  - Template rows and columns, gap
+- **Lab:** Create a grid-based layout.
+- **Challenge:** Build a 3x3 grid structure.
+- **Project:** Design a "Simple Portfolio Page."
+
+### **Day 13: Advanced Grid**
+
+In this day, you will learn advanced CSS Grid concepts like grid areas, spanning, auto-fit, and auto-fill. You will learn how to use these concepts to create complex grid layouts for your web pages.
+
+- **Topics:**
+  - Grid areas, spanning, auto-fit, and auto-fill
+- **Lab:** Use grid-template-areas to build layouts.
+- **Challenge:** Build a responsive grid layout with auto-fit.
+- **Project:** Create a "Magazine Layout" using grid.
+
+### **Day 14: Mini Project**
+
+In this day, you will work on a mini project to apply the intermediate CSS concepts you've learned throughout the week. You will build a responsive dashboard using flexbox and grid to create a complex layout with multiple components.
+
+- **Project:** Build a **Responsive Dashboard** using flexbox and grid.
+
+---
+
+## **Week 3: Styling Components**
+
+In the third week, you will learn how to style components like buttons, links, forms, and navigation bars using CSS. You will learn about pseudo-classes, pseudo-elements, transitions, transformations, and animations to add interactivity to your web pages.
+
+### **Day 15: Pseudo-classes**
+
+In this day, you will learn about pseudo-classes in CSS, including hover, focus, active, and visited. You will learn how to use pseudo-classes to style links, buttons, and form elements on a web page.
+
+- **Topics:**
+  - Hover, focus, active, visited
+- **Lab:** Style buttons with hover effects.
+- **Challenge:** Create a navigation bar with hover effects.
+- **Project:** Design an "Interactive Menu."
+
+### **Day 16: Pseudo-elements**
+
+In this day, you will learn about pseudo-elements in CSS, including `::before` and `::after`. You will learn how to use pseudo-elements to add decorative elements to your web pages.
+
+- **Topics:**
+  - `::before` and `::after`
+- **Lab:** Add decorative elements with pseudo-elements.
+- **Challenge:** Create a "Styled Quote Box."
+- **Project:** Design a "Button Set" with decorative elements.
+
+### **Day 17: Transitions**
+
+In this day, you will learn how to add smooth transitions to elements on a web page using CSS. You will learn about timing functions and how to apply transitions to properties like color, background, and transform.
+
+- **Topics:**
+  - Adding smooth transitions to elements
+  - Timing functions
+- **Lab:** Add transitions to buttons.
+- **Challenge:** Create a hover effect with transitions.
+- **Project:** Design an "Interactive Card."
+
+### **Day 18: Transformations**
+
+In this day, you will learn about CSS transformations like translate, scale, rotate, and skew. You will learn how to apply these transformations to elements on a web page to create interesting effects.
+
+- **Topics:**
+  - Translate, scale, rotate, skew
+- **Lab:** Experiment with transformations on shapes.
+- **Challenge:** Create a spinning loader.
+- **Project:** Build a "Dynamic Banner."
+
+### **Day 19: Animations**
+
+In this day, you will learn how to create animations using CSS keyframes and animation properties. You will learn how to define keyframes and apply animations to elements on a web page.
+
+- **Topics:**
+  - Keyframes and animation properties
+- **Lab:** Create a bouncing ball animation.
+- **Challenge:** Build a pulsating button.
+- **Project:** Design a "Loading Animation."
+
+### **Day 20: Mini Project**
+
+In this day, you will work on a mini project to apply the styling components you've learned throughout the week. You will build a dynamic landing page with transitions, transformations, and animations.
+
+- **Project:** Build a **Dynamic Landing Page** with transitions, transformations, and animations.
+
+---
+
+## **Week 4: Advanced CSS**
+
+In the fourth week, you will learn advanced CSS concepts like variables, responsive design, CSS frameworks, and web accessibility. You will learn how to use CSS variables to create reusable styles, make your web pages responsive, and improve accessibility.
+
+### **Day 21-23: CSS Variables**
+
+In these three days, you will learn about CSS variables and how to use them to create reusable styles in your web pages. You will learn how to define and use custom properties, as well as how to use variables in media queries.
+
+- **Topics:**
+  - Creating and using custom properties
+  - Variables in media queries
+- **Lab:** Use variables for theme colors.
+- **Challenge:** Create a dark/light mode toggle.
+- **Project:** Design a "Theme Switcher Page."
+
+### **Day 24: Responsive Design**
+
+In this day, you will learn about responsive design and how to create layouts that adapt to different screen sizes using media queries. You will learn how to use breakpoints to adjust the layout for mobile, tablet, and desktop screens.
+
+- **Topics:**
+  - Media queries for different screen sizes
+- **Lab:** Make a layout responsive with media queries.
+- **Challenge:** Create a mobile-friendly form.
+- **Project:** Build a "Responsive Blog Page."
+
+### **Day 25-26: CSS Frameworks**
+
+In these two days, you will learn about CSS frameworks like Bootstrap and Tailwind CSS. You will learn how to use these frameworks to create responsive layouts and components for your web pages.
+
+- **Topics:**
+  - Introduction to frameworks like Bootstrap or Tailwind
+  - Using grid and components
+- **Lab:** Use a framework to build a navbar.
+- **Challenge:** Create a responsive layout with Bootstrap/Tailwind.
+- **Project:** Build a "Framework-Based Portfolio Page."
+
+### **Day 27: Web Accessibility with CSS**
+
+In this day, you will learn about web accessibility and how CSS can be used to improve the accessibility of web pages. You will learn about focus indicators, contrast, and ARIA roles.
+
+- **Topics:**
+  - Focus indicators, contrast, ARIA roles
+- **Lab:** Add accessibility features to a form.
+- **Challenge:** Improve the accessibility of a webpage.
+- **Project:** Build an "Accessible Web Form."
+
+### **Day 28-30: Mini Projects**
+
+In these three days, you will work on mini projects to apply the advanced CSS concepts you've learned throughout the course.
+
+- **Projects:**
+  1. Build a "Recipe Page" with flexbox and grid.
+  2. Design a "Photo Gallery" with hover effects.
+  3. Create a "Business Landing Page."
+
+---
+
+## **Weeks 5-9: Advanced Concepts and Projects**
+### **Day 31-40: CSS Art**
+- **Topics:** Shapes, clip-path, filters
+- **Projects:** Create CSS-only artwork like a house, character, or logo.
+
+### **Day 41-50: Advanced Animations**
+- **Topics:** Parallax scrolling, advanced keyframes
+- **Projects:** Create animations for a storytelling website.
+
+### **Day 51-55: CSS for SEO**
+- **Topics:** Proper heading structure, performance optimizations
+- **Projects:** Optimize an existing project for SEO.
+
+### **Day 56-60: Final Capstone Project**
+- **Project:** Build a **Multi-Page Portfolio Website** with:
+  - Fully responsive design
+  - Animations and transitions
+  - Accessibility features
+  - Dark/light mode toggle
+
+---
+
+Congratulations on completing the CSS Mastery Course! You are now a CSS expert and can create stunning websites with advanced CSS techniques. Keep practicing and experimenting with CSS to enhance your skills further.
