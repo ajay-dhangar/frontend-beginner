@@ -8,8 +8,7 @@ Welcome to the **Frontend Beginner** course repository! This course is designed 
 - **HTML**: Build the structure of web pages.  
 - **CSS**: Style and make your web pages visually appealing.  
 - **JavaScript**: Add interactivity and dynamic features to your sites.  
-- **Responsive Design**: Create great layouts on any device.  
-- **Frontend Tools**: Introduction to popular tools and techniques.
+- **Responsive Design**: Create great layouts on any device.
 - **React.js:** Build modern, dynamic user interfaces.
 - **MERN Stack Basics:** Get introduced to MongoDB, Express.js, React.js, and Node.js for full-stack development.
 - **Frontend Tools:** Learn to use popular tools and techniques like version control (Git) and package managers.
